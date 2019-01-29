@@ -1,0 +1,17 @@
+Nameing conventions :
+
+1) File names are case sensitive
+2) File name contains 255 characters
+3) File name doesnot contains special characters 
+4) File name doesnot contains "-" symbol 
+5) Dont start the file name as DOT that consider as a hidden from the normal display
+6) To view the hidden file "-a"
+7) File extensions are not recognized in linux
+
+
+Wild Cards :
+
+1) "?" - which replaces similar characters in the file.
+2) "*" - Which replaces 0 or more characters in the file.
+3) "[]" - Which replaces the given range in the file. 
+4) "[!]" or "[^]" - which ignored the character in the file.
